@@ -9,13 +9,13 @@ Requires 'Sprite'.
 const cursor = new MousePointer();
 ```
 
-### Mount cursor to document
+### Mount cursor to DOM
 *Cursor mounts to document.body. Z-Index equals 1000.*
 ```ts
 cursor.Display();
 ```
 
-### Remove/hide cursor.
+### Remove/hide cursor
 *Removes element from document.*
 ```ts
 cursor.Hide();
