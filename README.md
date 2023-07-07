@@ -1,8 +1,5 @@
-# Pixel-CursorPointer_optimized
-Optimized custom cursor for WEB-Apps with two states.
-
-Requires RDMTSTUDIOS/[2D Sprite](https://github.com/RDMTSTUDIOS/2D-Sprite-renderer).
-
+Simple, optimized custom pixel srprite cursor for web.
+Requires [2D Sprite](https://github.com/RDMTSTUDIOS/2D-Sprite-renderer).
 
 ### Initiate new cursor
 ```ts
